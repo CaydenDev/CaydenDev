@@ -31,4 +31,8 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Update README.md with latest statistics" || echo "No changes to commit"
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
           git push
