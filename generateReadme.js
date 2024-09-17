@@ -20,7 +20,7 @@ async function fetchGitHubData() {
 async function generateReadme() {
     const githubData = await fetchGitHubData();
     
-    const readmeContent = `
+    const readmeTemplate = `
 # 👋 Hello, I'm ${githubData.username}!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative solutions. This is a showcase of my skills, projects, and contributions.
@@ -43,6 +43,7 @@ Here are some technologies and programming languages I actively work with:
 ## 📫 Connect with Me:
 - atzen@post.com
 
+---
 
 ## 📊 Additional GitHub Statistics
 
@@ -53,7 +54,7 @@ Here are some technologies and programming languages I actively work with:
 ![GitHub Stats Contribution](https://github-readme-streak-stats.herokuapp.com/?user=${githubData.username}&theme=radical)
     `;
 
-    fs.writeFileSync('README.md', readmeContent.trim());
+    fs.writeFileSync('README.md', readmeTemplate.trim());
     console.log('README.md has been updated.');
 }
 
