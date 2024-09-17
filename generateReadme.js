@@ -1,7 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
 
-const GITHUB_USERNAME = 'caydendev'; // Your GitHub username
+const GITHUB_USERNAME = 'caydendev';
 const GITHUB_API_URL = `https://api.github.com/users/${GITHUB_USERNAME}`;
 
 async function fetchGitHubData() {
