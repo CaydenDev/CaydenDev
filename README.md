@@ -14,7 +14,7 @@ Here are some technologies and programming languages I actively work with:
 
 ## 🔗 My Repositories
 
-- [Repo 1: Your Awesome Project](https://github.com/caydendev/) 
+- [This Readme](https://github.com/caydendev/caydendev) 
 - [Organisation: DieAtzen](https://github.com/DieAtzen)
 
 ## 📫 Connect with Me:
