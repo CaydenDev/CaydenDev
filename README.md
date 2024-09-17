@@ -1,4 +1,4 @@
-# 👋 Hello, I'm CaydenDev!
+# 👋 Hello, I'm Cayden!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative solutions. This is a showcase of my skills, projects, and contributions.
 
