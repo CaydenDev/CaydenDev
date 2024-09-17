@@ -14,8 +14,18 @@ Here are some technologies and programming languages I actively work with:
 
 ## 🔗 My Repositories
 
-- [Repo 1: Your Awesome Project](https://github.com/caydendev/)
+- [Repo 1: Your Awesome Project](https://github.com/caydendev/) 
 - [Organisation: DieAtzen](https://github.com/DieAtzen)
 
 ## 📫 Connect with Me:
 - atzen@post.com
+
+---
+
+## 📊 Additional GitHub Statistics
+
+- 🌟 **Public Repositories:** {{publicRepos}}  
+- 👥 **Followers:** {{followers}}  
+- 🔗 **GitHub Profile:** [Visit My Profile](https://github.com/caydendev)
+
+![GitHub Stats Contribution](https://github-readme-streak-stats.herokuapp.com/?user=caydendev&theme=radical)
