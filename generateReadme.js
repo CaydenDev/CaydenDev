@@ -23,7 +23,7 @@ async function generateReadme() {
     const readmeTemplate = `
 # 👋 Hello, I'm ${githubData.username}!
 
-Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative solutions. This is a showcase of my skills, projects, and contributions.
+Welcome to my GitHub profile! I'm a passionate who's exploring new technologies and building some solutions. This is a showcase of my skills, projects, and contributions.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Go+touch+some+grass)](https://git.io/typing-svg)
 
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caydendev&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caydendev&langs_count=10)
 
 ## 📊 GitHub Stats
 
