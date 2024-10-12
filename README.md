@@ -13,7 +13,7 @@ Here are some technologies and programming languages I actively work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caydendev&langs_count=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caydendev&langs_count=16)
 
 ## 📊 GitHub Stats
 
