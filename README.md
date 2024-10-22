@@ -28,9 +28,9 @@ These are some "Programs" that i use:
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats (that no one will read lol)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caydendev&langs_count=20)
 ![CaydenDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaydenDev&show_icons=true&theme=radical)
 ![GitHub Stats Contribution](https://github-readme-streak-stats.herokuapp.com/?user=CaydenDev&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caydendev&langs_count=20)
 
 ## 🔗 My Repositories
 
