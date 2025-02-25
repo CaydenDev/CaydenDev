@@ -2,7 +2,7 @@
 ![CaydenDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaydenDev&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaydenDev&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api?username=CaydenDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
