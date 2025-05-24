@@ -2,7 +2,7 @@
 ![CaydenDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaydenDev&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaydenDev=20)](https://github.com/CaydenDev/CaydenDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaydenDev&langs_count=15))](https://github.com/CaydenDev/CaydenDev)
 
 
 
